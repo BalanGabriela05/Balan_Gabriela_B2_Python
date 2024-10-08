@@ -1,1 +1,7 @@
-# Balan_Gabriela_B2
+Lab 2 : 
+    - Variable
+    - Basic Types
+    - Numerical Operations
+    - String types
+    - Statemens (if, while, for)
+    - Functions
