@@ -1,4 +1,4 @@
-## Lab 2
+## Lab 2/3
 
 - **Variable**
 - **Basic Types**
@@ -9,20 +9,20 @@
 
 ---
 
-## Lab 3
+## Lab 4
 
 - **Lists**
 - **Touples**
 
 ---
-## Lab 4
+## Lab 5
 
 - **Constructors**
 - **Data members**
 - **Methods**
 
 ---
-## Lab 5
+## Lab 6
 
 - **Inheritance**
 - **Special methods**
